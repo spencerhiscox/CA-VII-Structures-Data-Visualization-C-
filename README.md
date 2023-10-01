@@ -1,4 +1,3 @@
-/*
 ©Spencer Hiscox, 2023. All rights reserved.
 
 Disclaimer: 
@@ -110,4 +109,3 @@ IX TRANSCRIPT NOTATIONS All transcript notations shall include:
 
 The full academic dishonesty policy can be found here:
 https://carleton.ca/secretariat/wp-content/uploads/Academic-Integrity-Policy-2021.pdf
-*/
