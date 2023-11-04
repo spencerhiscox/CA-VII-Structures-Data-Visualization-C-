@@ -1,5 +1,5 @@
 Copyright© Spencer Hiscox, 2023<br />
-All rights reserved
+All Rights Reserved
 
 Disclaimer: 
 	This work is published online with permission of the faculties to which the work pertains at the relevant university. 
